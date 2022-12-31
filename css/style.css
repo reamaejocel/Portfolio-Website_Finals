@@ -1,7 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 
 :root{
+<<<<<<< HEAD
     --main-color:#030000;
+=======
+    --main-color:#000103;
+>>>>>>> fba8c03a821ad231797e14829fbd7897784e8938
 }
 
 *{
@@ -22,7 +26,11 @@ html{
 }
 
 body{
+<<<<<<< HEAD
     background: #5d6e9b;
+=======
+    background: #fcf2e8;
+>>>>>>> fba8c03a821ad231797e14829fbd7897784e8938
     padding-left: 30rem;
 }
 
@@ -34,7 +42,11 @@ section{
 .heading{
     font-size: 4rem;
     padding-bottom: 1rem;
+<<<<<<< HEAD
     color:rgb(0, 0, 0);
+=======
+    color:#111;
+>>>>>>> fba8c03a821ad231797e14829fbd7897784e8938
     text-transform: uppercase;
 }
 
@@ -54,7 +66,11 @@ section{
 }
 
 .btn:hover{
+<<<<<<< HEAD
     background:rgb(17, 19, 39);
+=======
+    background:#111;
+>>>>>>> fba8c03a821ad231797e14829fbd7897784e8938
     letter-spacing: .2rem;
 }
 
@@ -178,7 +194,11 @@ header .follow a:hover{
 
 .home .content h3{
     font-size: 4.5rem;
+<<<<<<< HEAD
     color:rgb(0, 0, 0);
+=======
+    color:#111;
+>>>>>>> fba8c03a821ad231797e14829fbd7897784e8938
     text-transform: uppercase;
 }
 
@@ -189,13 +209,21 @@ header .follow a:hover{
 
 .home .content .info{
     font-size: 2.5rem;
+<<<<<<< HEAD
     color:rgb(0, 0, 0);
+=======
+    color:#111;
+>>>>>>> fba8c03a821ad231797e14829fbd7897784e8938
     padding:.5rem 0;
 }
 
 .home .content .text{
     font-size: 1.7rem;
+<<<<<<< HEAD
     color:rgb(0, 0, 0);
+=======
+    color:#666;
+>>>>>>> fba8c03a821ad231797e14829fbd7897784e8938
     padding:.5rem 0;
 }
 
@@ -224,12 +252,20 @@ header .follow a:hover{
 }
 
 .about .row-1 .content h3{
+<<<<<<< HEAD
     color:rgb(0, 0, 0);
+=======
+    color:#333;
+>>>>>>> fba8c03a821ad231797e14829fbd7897784e8938
     font-size: 3.5rem;
 }
 
 .about .row-1 .content p{
+<<<<<<< HEAD
     color:rgb(0, 0, 0);
+=======
+    color:#666;
+>>>>>>> fba8c03a821ad231797e14829fbd7897784e8938
     font-size: 1.7rem;
     padding:.5rem 0;
 }
@@ -325,7 +361,11 @@ header .follow a:hover{
 }
 
 .about .row-2 .box-container .box p{
+<<<<<<< HEAD
     color:rgb(3, 3, 3);
+=======
+    color:#666;
+>>>>>>> fba8c03a821ad231797e14829fbd7897784e8938
     font-size: 1.7rem;
     padding-top: .5rem;
 }
@@ -478,6 +518,7 @@ header .follow a:hover{
     background:var(--main-color);
     color:#fff;
 }
+<<<<<<< HEAD
 .portfolio .box-container .box .icons a{
     display: block;
     height:4rem;
@@ -532,6 +573,8 @@ header .follow a:hover{
     color:#fff;
 }
 
+=======
+>>>>>>> fba8c03a821ad231797e14829fbd7897784e8938
 
 .contact .icons-container{
     display: flex;
